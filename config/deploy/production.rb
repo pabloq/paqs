@@ -15,7 +15,7 @@ role :db,  %w{pabloq@paqs.es}
 # server list. The second argument is a, or duck-types, Hash and is
 # used to set extended properties on the server.
 
-server 'paqs.es', user: 'deploy', roles: %w{web app}
+server 'paqs.es', user: 'pabloq', roles: %w{app}
 
 # Custom SSH Options
 # ==================
