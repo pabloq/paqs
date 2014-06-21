@@ -44,3 +44,9 @@ gem 'capistrano-rvm', github: "capistrano/rvm"
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "slim-rails"
+gem 'simple_form'
+gem 'country_select'
+gem "twitter-bootstrap-rails"
+gem 'devise'
+gem 'cancan'
